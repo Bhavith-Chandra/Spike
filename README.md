@@ -20,5 +20,5 @@ Spike is a comprehensive Python library designed for calculating a wide range of
 2. **Shravani C.**
     - *Role:* Research Intern at HydroMind Technologies
     - *Education:* Freshman pursuing a degree in Computer Science
-    - *Contact:* [Include contact information]
+    - *Contact:* shravanic006@gmail.com
 
