@@ -1,7 +1,5 @@
 # Spike: Python Library for Physics, Mathematics, and Chemistry Calculations
 
-[Include a brief, catchy description or tagline about your project]
-
 ## Introduction
 
 Spike is a comprehensive Python library designed for calculating a wide range of Physics, Mathematics, and Chemistry formulae. It is a valuable resource for both calculations and research, featuring thousands of formulas to meet the diverse needs of the scientific and academic communities.
